@@ -1,7 +1,3 @@
-First:
-Last:
-github user id (no @ symbol):
-twitter user id (no @ symbol):
-personal website (comma separated list if more than one):
 year started coding:
 coding strengths (comma separated list):
+anything you want to share about yourself:
