@@ -1,0 +1,3 @@
+year started coding: 2005
+coding strengths (comma separated list): Structured Programming, Golang
+anything you want to share about yourself: I enjoy learning new programming things.
