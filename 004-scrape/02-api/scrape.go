@@ -6,6 +6,7 @@ import (
 	"net/http"
 	"net/url"
 	"strings"
+	"time"
 
 	"github.com/PuerkitoBio/goquery"
 )
@@ -66,6 +67,7 @@ func getConversation() ([]string, error) {
 		}
 
 		continueCode = resp.MinPos
+		time.Sleep(time.Second)
 	}
 
 	return messages, nil
@@ -75,7 +77,7 @@ func parseHtml(message string) ([]tweet, error) {
 	rdr := strings.NewReader(message)
 	doc, err := goquery.NewDocumentFromReader(rdr)
 	if err != nil {
-		return nil, err
+		return nil, fmt.Errorf("Unable to read html: %w", err)
 	}
 
 	ts := []tweet{}
