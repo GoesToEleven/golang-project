@@ -11,6 +11,8 @@ import (
 	"github.com/PuerkitoBio/goquery"
 )
 
+const site = "https://twitter.com/i/Todd_McLeod/conversation/1169751640926146560"
+
 type tweet struct {
 	Name     string
 	Username string
@@ -30,7 +32,7 @@ func makeConversationRequest(maxPos string) (*conversationResponse, error) {
 	params.Set("max_position", maxPos)
 	params.Set("reset_error_state", "false")
 
-	url := "https://twitter.com/i/Todd_McLeod/conversation/1169751640926146560?" + params.Encode()
+	url := site + "?" + params.Encode()
 	resp, err := http.Get(url)
 	if err != nil {
 		return nil, fmt.Errorf("Error while getting conversation data: %w", err)
