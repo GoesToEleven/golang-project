@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"net/http"
 	"net/url"
+	"sort"
 	"strings"
 	"time"
 
@@ -95,6 +96,46 @@ func parseHtml(message string) ([]tweet, error) {
 	return ts, nil
 }
 
+func dumpTweets(tweets []tweet) {
+	bs, err := json.MarshalIndent(tweets, "", "\t")
+	if err != nil {
+		panic(err)
+	}
+
+	fmt.Println(string(bs))
+	fmt.Println("Number of tweets:", len(tweets))
+}
+
+type wordInfo struct {
+	word string
+	count int
+}
+
+func wordCount(tweets []tweet) []wordInfo {
+	wordMap := map[string]int{}
+
+	for _, t := range tweets {
+		words := strings.Split(t.Message, " ")
+		for _, w := range words {
+			wordMap[strings.ToLower(w)]++
+		}
+	}
+
+	wis := []wordInfo{}
+	for w, c := range wordMap {
+		wis = append(wis, wordInfo{
+			word: w,
+			count: c,
+		})
+	}
+
+	sort.Slice(wis, func(i, j int) bool {
+		return wis[i].count > wis[j].count
+	})
+
+	return wis
+}
+
 func main() {
 	resp, err := getConversation()
 	if err != nil {
@@ -110,11 +151,8 @@ func main() {
 		tweets = append(tweets, ts...)
 	}
 
-	bs, err := json.MarshalIndent(tweets, "", "\t")
-	if err != nil {
-		panic(err)
+	sortedCounts := wordCount(tweets)
+	for _, v := range sortedCounts {
+		fmt.Printf("%s: %d\n", v.word, v.count)
 	}
-
-	fmt.Println(string(bs))
-	fmt.Println("Number of tweets:", len(tweets))
 }
