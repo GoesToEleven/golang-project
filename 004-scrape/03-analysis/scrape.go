@@ -107,7 +107,7 @@ func dumpTweets(tweets []tweet) {
 }
 
 type wordInfo struct {
-	word string
+	word  string
 	count int
 }
 
@@ -124,7 +124,7 @@ func wordCount(tweets []tweet) []wordInfo {
 	wis := []wordInfo{}
 	for w, c := range wordMap {
 		wis = append(wis, wordInfo{
-			word: w,
+			word:  w,
 			count: c,
 		})
 	}
