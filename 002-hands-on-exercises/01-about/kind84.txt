@@ -1,0 +1,3 @@
+year started coding: 2014
+coding strengths (comma separated list): Golang, C#, Vue.js
+anything you want to share about yourself: twitter.com/paolo_g84
