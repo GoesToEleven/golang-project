@@ -1,0 +1,3 @@
+year started coding: 2015, more intensively since 2018
+coding strengths (comma separated list): python, pandas, go, open location code data structures, tensorflow, D3.js; (strengths compared to how terrible I am at most front-end tasks)
+anything you want to share about yourself: I enjoy thinking about how geospatial data can improve the quality of life of humans, the efficiency of resource production, consumption, and waste; and influence urban/environmental design. Next step is to build it out. twitter.com/rodr_io
