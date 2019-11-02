@@ -1,0 +1,3 @@
+years started coding: 1998
+coding strengths (comma seperated list): mostly python
+anything you want to share about yourself: Work in IAAS platform architecture, wanting to contribute more to a few virtualization and networking projects that we use that are all golang! Excited to get better. I'm a wizard with yaml nowadays...
