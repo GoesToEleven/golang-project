@@ -1,0 +1,3 @@
+years started coding: 15
+coding strengths (comma seperated list): java, c, python, cpp
+anything you want to share about yourself: started as a professional developer for 15 years then sold my company and became a teacher and I teach advanced High School Mathematics and Computer Science.
