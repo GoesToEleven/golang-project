@@ -1,0 +1,3 @@
+years started coding: 1999
+coding strengths (comma seperated list): Go,JavaScript,Vue,SQLServer,MySQL,PHP,Excel,VBA,ASP,Flutter/Dart,Systems Design,Moving data,love to learn
+anything you want to share about yourself: Father/Husband/Coder/Griller/Eater/Runner
