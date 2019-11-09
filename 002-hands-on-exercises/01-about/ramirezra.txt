@@ -1,0 +1,3 @@
+years started coding: 2008/2014
+coding strengths (comma seperated list): golang, elm, excel/vba
+anything you want to share about yourself: first learned how to program by automating tasks in microsoft office products like excel, access, etc. then moved on to python, javascript, golang, elm
