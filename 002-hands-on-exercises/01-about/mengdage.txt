@@ -1,0 +1,3 @@
+years started coding: 2009
+coding strengths (comma seperated list): javascript
+anything you want to share about yourself: hello world!
