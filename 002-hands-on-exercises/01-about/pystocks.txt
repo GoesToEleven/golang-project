@@ -1,0 +1,3 @@
+years started coding: 1
+coding strengths (comma seperated list): persistent
+anything you want to share about yourself: Happy to learn Golang!
