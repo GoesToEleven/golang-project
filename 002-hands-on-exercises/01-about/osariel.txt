@@ -1,0 +1,3 @@
+years started coding: 10
+coding strengths (comma seperated list): C, powershell, golang
+anything you want to share about yourself: Nothing much. Just a regular guy. Love technology. Trying to eat healthy these days. Major interest in anti aging medicine.
