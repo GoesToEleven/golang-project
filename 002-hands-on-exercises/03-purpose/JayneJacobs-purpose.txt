@@ -5,13 +5,3 @@ of humanity. It is difficult to feel truely satisfied with prosperity or success
 care about are suffering and this extends to all in our reach. Of course no one person can save
 the world but we each know what is truely in our power to change and contribute. 
 
-error: branch 'mypupose' not found.
-PASML-335382:03-purpose jjacob151$ git branch
-* master
-  myhumble
-  mypurpose
-PASML-335382:03-purpose jjacob151$ git branch -d mypurpose
-Deleted branch mypurpose (was dcc86c8).
-PASML-335382:03-purpose jjacob151$ git branch -d myhumble
-Deleted branch myhumble (was 789e5f7).
-
