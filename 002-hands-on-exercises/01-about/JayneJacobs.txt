@@ -1,0 +1,9 @@
+years started coding: 2
+coding strengths (comma seperated list):
+go,some python but I prefer go,html,css,java-script,some java but I prefer go :)
+
+anything you want to share about yourself:
+I am a Systems Engineer learning coding to add to my tool set. 
+I love music and play flute, guitar, keyboard and sax, and sing. 
+I have a band. Please see my webesite http://jaynejacobs.com
+
