@@ -1,0 +1,3 @@
+years started coding: 2002
+coding strengths (comma seperated list): sql, python, javascript, perl, haskell, C
+anything you want to share about yourself: I hate Java
