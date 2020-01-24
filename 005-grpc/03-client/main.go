@@ -19,7 +19,7 @@ func main() {
 
 	e := echo.NewEchoServerClient(conn)
 	resp, err := e.Echo(ctx, &echo.EchoRequest{
-		Message: "Hello World!",
+		Message: "Hello World!!!!!",
 	})
 	if err != nil {
 		panic(err)
