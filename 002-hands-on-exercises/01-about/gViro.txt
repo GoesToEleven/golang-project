@@ -1,3 +1,3 @@
-years started coding: 4
-coding strengths (comma seperated list): persistent, curious, playful 
-anything you want to share about yourself: life-long-learner, stubbornly sticking with Vim despite being terrible at it, I'm on Team Human
+years started coding: late '90s ( HTML/CSS ) naughties (actionscript, flash, JS) late twenty-teens ( bash,linux, python, go )  
+coding strengths (comma seperated list): I'm persistent, curious, and playful. 
+anything you want to share about yourself: I believe in life-long learning. I'm stubbornly sticking with Vim despite being terrible at it. I'm on Team Human.
