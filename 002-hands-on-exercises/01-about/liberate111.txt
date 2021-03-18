@@ -1,0 +1,3 @@
+years started coding: 2014
+coding strengths (comma seperated list): Go, C, C#, Javascript
+anything you want to share about yourself: I am beginning to begin Go Developer career, your online course helps me a lot to get this job.
