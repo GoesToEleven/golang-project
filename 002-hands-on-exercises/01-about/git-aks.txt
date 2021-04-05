@@ -1,3 +1,5 @@
 years started coding: since 1999
 coding strengths (comma seperated list): java, html, javascript, jsp, go and can understand c/c++, python code.
-anything you want to share about yourself: I am a software engineer who loves to code things that make life easy and takes mankind to a better place. I like music, singing, biking, eating :D and honest people. I like to learn from others experiences and respect and appreciate the wonders that have been created in this world.
+anything you want to share about yourself: I am a software engineer who loves to code things that make life easy and takes mankind to a better place. 
+I like music, singing, biking, eating :D and honest people. 
+I like to learn from others experiences and respect and appreciate the wonders that have been created in this world.
