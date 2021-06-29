@@ -1,0 +1,4 @@
+years started coding:2000 as a studant and 2006
+coding strengths (comma seperated list):python, java, c#, javascript
+anything you want to share about yourself:Today I work as a quality assurance engineer
+
