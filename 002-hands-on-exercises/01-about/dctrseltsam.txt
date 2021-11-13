@@ -1,3 +1,0 @@
-years started coding: 1986
-coding strengths (comma seperated list): clipper/harbour, pascal, SQL, typescript, html/css, golang
-anything you want to share about yourself: have been coding for a long time and still want to learn new exciting things
