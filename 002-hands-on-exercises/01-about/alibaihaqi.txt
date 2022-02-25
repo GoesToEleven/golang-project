@@ -1,0 +1,5 @@
+years started coding: 2018
+coding strengths (comma seperated list): vue, react, js, ts, golang (just started)
+anything you want to share about yourself:
+- I'm work as a Software Development Engineer.
+- Always super excited when learning new thing
