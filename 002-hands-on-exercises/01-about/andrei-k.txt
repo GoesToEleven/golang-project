@@ -1,0 +1,3 @@
+years started coding: 19
+coding strengths (comma seperated list): javascript, html, css, java, jsp
+anything you want to share about yourself: stoked to master the go language
