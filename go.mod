@@ -1,4 +1,4 @@
-module github.com/sabubhatia/golang-project
+module github.com/GoesToEleven/golang-project
 
 go 1.13
 
