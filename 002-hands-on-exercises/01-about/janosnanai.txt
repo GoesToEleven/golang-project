@@ -1,0 +1,3 @@
+years started coding: long ago
+coding strengths (comma seperated list): typescript, react, css, html
+anything you want to share about yourself: https://janosnanai.dev; fullstack software engineer, ex electrical and industrial engineer
