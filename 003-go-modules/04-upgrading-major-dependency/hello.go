@@ -5,7 +5,7 @@ import (
 )
 
 func Hello() string {
-	return quote.HelloV3()
+	return "Hello from a fork"
 }
 
 func Proverb() string {
