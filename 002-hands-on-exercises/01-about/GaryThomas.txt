@@ -1,0 +1,3 @@
+year started coding: 1970
+coding strengths (comma separated list): I've done it all, starting with building compilers in ~1974 to building embedded systems today
+anything you want to share about yourself: Being one of the original "gray beards", one might wonder why I'm going through these exercises - I'm mostly interested in this course with learning more about 'go'
